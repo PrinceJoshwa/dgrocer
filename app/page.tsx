@@ -39,7 +39,7 @@ export default function Home() {
         {/* <StickyWhatsApp /> */}
         <section id="home">
           <HeroSection />
-          <BannerSection />
+          {/* <BannerSection /> */}
         </section>
         <BrandHighlights />
         <section id="products">
