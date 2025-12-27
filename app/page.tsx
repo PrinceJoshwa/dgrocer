@@ -52,7 +52,7 @@ export default function Home() {
           <CTASection />
         </section>
       </main>
-      <Footer />
+      {/* <Footer /> */}
       <WhatsappChat />
     </div>
   )
