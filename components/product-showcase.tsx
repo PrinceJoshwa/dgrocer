@@ -445,7 +445,8 @@ export default function ProductShowcase() {
         "Black Kismiss",
         "Fig",
       ],
-      image: "https://res.cloudinary.com/dsj3kcbf4/image/upload/v1766506305/Screenshot_2025-12-23_213202_jwz81l.png",
+      // image: "https://res.cloudinary.com/dsj3kcbf4/image/upload/v1766506305/Screenshot_2025-12-23_213202_jwz81l.png",
+      image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/9.png?updatedAt=1766849966367",
     },
     {
       name: "Standard",
@@ -458,7 +459,8 @@ export default function ProductShowcase() {
         "Black Kismiss",
         "Fig",
       ],
-      image: "https://res.cloudinary.com/dsj3kcbf4/image/upload/v1766506306/Screenshot_2025-12-23_213143_zieuou.png",
+      // image: "https://res.cloudinary.com/dsj3kcbf4/image/upload/v1766506306/Screenshot_2025-12-23_213143_zieuou.png",
+      image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/7.png?updatedAt=1766849965838",
     },
     {
       name: "Standard Plus",
@@ -470,7 +472,8 @@ export default function ProductShowcase() {
         "Kismiss",
         "Pista",
       ],
-      image: "https://res.cloudinary.com/dsj3kcbf4/image/upload/v1766506307/Screenshot_2025-12-23_213221_oimy6c.png",
+      // image: "https://res.cloudinary.com/dsj3kcbf4/image/upload/v1766506307/Screenshot_2025-12-23_213221_oimy6c.png",
+      image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/2.png?updatedAt=1766849968531",
     },
     {
       name: "Premium",
@@ -484,7 +487,8 @@ export default function ProductShowcase() {
         "Pista",
         "Pumpkin Seed",
       ],
-      image: "https://res.cloudinary.com/dsj3kcbf4/image/upload/v1766506306/Screenshot_2025-12-23_213307_fve6uc.png",
+      // image: "https://res.cloudinary.com/dsj3kcbf4/image/upload/v1766506306/Screenshot_2025-12-23_213307_fve6uc.png",
+      image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/6.png?updatedAt=1766849968568",
     },
     {
       name: "Classic",
@@ -499,7 +503,8 @@ export default function ProductShowcase() {
         "Pumpkin Seed",
         "Kismiss",
       ],
-      image: "https://res.cloudinary.com/dsj3kcbf4/image/upload/v1766506304/Screenshot_2025-12-23_213357_zbjnmm.png",
+      // image: "https://res.cloudinary.com/dsj3kcbf4/image/upload/v1766506304/Screenshot_2025-12-23_213357_zbjnmm.png",
+      image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/5.png?updatedAt=1766849966756",
     },
     {
       name: "Royal",
@@ -513,7 +518,8 @@ export default function ProductShowcase() {
         "Pista",
         "Pumpkin Seed",
       ],
-      image: "https://res.cloudinary.com/dsj3kcbf4/image/upload/v1766506303/Screenshot_2025-12-23_213256_rupwjd.png",
+      // image: "https://res.cloudinary.com/dsj3kcbf4/image/upload/v1766506303/Screenshot_2025-12-23_213256_rupwjd.png",
+      image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/1.png?updatedAt=1766849968324",
     },
     {
       name: "Royal Plus",
@@ -525,7 +531,8 @@ export default function ProductShowcase() {
         "Kismiss",
         "Pista",
       ],
-      image: "https://res.cloudinary.com/dsj3kcbf4/image/upload/v1766506304/Screenshot_2025-12-23_213320_pnpsfc.png",
+      // image: "https://res.cloudinary.com/dsj3kcbf4/image/upload/v1766506304/Screenshot_2025-12-23_213320_pnpsfc.png",
+      image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/8.png?updatedAt=1766849965157",
     },
     {
       name: "Delight",
@@ -541,7 +548,8 @@ export default function ProductShowcase() {
         "Gems",
       ],
       // Placeholder image or use a generic festive one
-      image: "https://res.cloudinary.com/dsj3kcbf4/image/upload/v1766506300/Screenshot_2025-12-23_213342_af5xur.png", 
+      // image: "https://res.cloudinary.com/dsj3kcbf4/image/upload/v1766506300/Screenshot_2025-12-23_213342_af5xur.png", 
+      image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/11.png?updatedAt=1766849968429", 
     },
     {
       name: "Elite",
@@ -556,7 +564,8 @@ export default function ProductShowcase() {
         "Pista",
         "Fig",
       ],
-      image: "https://res.cloudinary.com/dsj3kcbf4/image/upload/v1766506300/Screenshot_2025-12-23_213342_af5xur.png",
+      // image: "https://res.cloudinary.com/dsj3kcbf4/image/upload/v1766506300/Screenshot_2025-12-23_213342_af5xur.png",
+      image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/11.png?updatedAt=1766849968429",
     },
     {
       name: "Supreme",
@@ -572,7 +581,8 @@ export default function ProductShowcase() {
         "Imported Chocolates",
       ],
       // Placeholder image or use a generic festive one
-      image: "https://res.cloudinary.com/dsj3kcbf4/image/upload/v1766506300/Screenshot_2025-12-23_213342_af5xur.png",
+      // image: "https://res.cloudinary.com/dsj3kcbf4/image/upload/v1766506300/Screenshot_2025-12-23_213342_af5xur.png",
+      image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/11.png?updatedAt=1766849968429",
     },
     {
       name: "Luxury",
@@ -589,7 +599,8 @@ export default function ProductShowcase() {
         "Kismiss",
         "Walnut",
       ],
-      image: "https://res.cloudinary.com/dsj3kcbf4/image/upload/v1766506297/Screenshot_2025-12-23_213416_ppgh3o.png",
+      // image: "https://res.cloudinary.com/dsj3kcbf4/image/upload/v1766506297/Screenshot_2025-12-23_213416_ppgh3o.png",
+      image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/3.png?updatedAt=1766849968395",
     },
   ]
 
