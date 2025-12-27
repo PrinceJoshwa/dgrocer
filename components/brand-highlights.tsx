@@ -149,7 +149,7 @@ export default function BrandHighlights() {
     },
     {
       icon: Gift,
-      title: "Beautiful Packaging",
+      title: "Custom packaging",
       description: "Exquisitely designed gift boxes perfect for any occasion",
       color: "from-orange-500 to-amber-600",
       bgGradient: "from-orange-50 to-amber-50",
@@ -163,7 +163,7 @@ export default function BrandHighlights() {
     },
     {
       icon: Users,
-      title: "Perfect for All",
+      title: "Occasional hampers",
       description: "Ideal for corporates, friends, relatives & bulk orders",
       color: "from-blue-500 to-indigo-600",
       bgGradient: "from-blue-50 to-indigo-50",
