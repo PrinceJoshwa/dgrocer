@@ -122,9 +122,9 @@ export default function BenefitsSection() {
 
   const benefits = [
     { text: "Fresh & Premium Quality Ingredients", icon: Leaf },
-    { text: "Beautifully Packaged Gift Boxes", icon: Gift },
+    { text: "Assorted Gift hampers", icon: Gift },
     { text: "Perfect for Corporates & Bulk Orders", icon: Users },
-    { text: "Customizable Gift Hampers Available", icon: Sparkles },
+    { text: "All Occasional Orders Accepted", icon: Sparkles },
     { text: "Healthy & Nutritious Selection", icon: ShieldCheck },
     { text: "Competitive Pricing Starting from ₹199", icon: IndianRupee },
     { text: "Quick Delivery & Order Processing", icon: Truck },

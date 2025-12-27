@@ -41,7 +41,7 @@ export default function Home() {
           <HeroSection />
           {/* <BannerSection /> */}
         </section>
-        <BrandHighlights />
+        {/* <BrandHighlights /> */}
         <section id="products">
           <ProductShowcase />
         </section>
