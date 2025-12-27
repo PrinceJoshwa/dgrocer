@@ -40,8 +40,8 @@ export default function Footer() {
           {/* Brand Column */}
           <motion.div variants={itemVariants}>
             <h3 className="text-xl font-bold mb-4">D'GROCER</h3>
-            <p className="text-green-100 text-sm mb-4">Premium dry fruits, nuts and seeds for healthy living.</p>
-            <p className="text-green-200 italic text-sm">Eat Right, Stay Healthy</p>
+            {/* <p className="text-green-100 text-sm mb-4">Premium dry fruits, nuts and seeds for healthy living.</p>
+            <p className="text-green-200 italic text-sm">Eat Right, Stay Healthy</p> */}
           </motion.div>
 
           {/* Products Column */}

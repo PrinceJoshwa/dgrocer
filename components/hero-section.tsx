@@ -353,7 +353,7 @@ export default function HeroSection() {
                 <motion.img
                   whileHover={{ scale: 1.1 }}
                   transition={{ duration: 0.6, ease: "easeOut" }}
-                  src="https://res.cloudinary.com/dsj3kcbf4/image/upload/v1766505510/WhatsApp_Image_2025-12-23_at_7.47.52_PM_rwqkpl.jpg"
+                  src="https://res.cloudinary.com/dhgdjsfqh/image/upload/v1766821284/ok_one_1_fn9fcw.png"
                   alt="D'GROCER Premium Gift Box"
                   className="w-full h-full object-cover"
                 />

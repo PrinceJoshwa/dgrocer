@@ -359,9 +359,9 @@ export default function CTASection() {
 
       <motion.div
         ref={ref}
-        variants={containerVariants}
-        initial="hidden"
-        animate={inView ? "visible" : "hidden"}
+          variants={containerVariants}
+          initial={false}
+          animate={inView ? "visible" : "visible"}
         className="container mx-auto px-4 md:px-6 lg:px-8 relative z-10"
       >
         <div className="space-y-16">

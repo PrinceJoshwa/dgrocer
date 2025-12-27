@@ -287,8 +287,8 @@ export default function BrandHighlights() {
       <div className="container mx-auto px-4 md:px-6 lg:px-8 relative z-10">
         <motion.div
           variants={containerVariants}
-          initial="hidden"
-          animate={inView ? "visible" : "hidden"}
+          initial={false}
+          animate={inView ? "visible" : "visible"}
           className="space-y-20"
         >
           {/* Header Section */}
