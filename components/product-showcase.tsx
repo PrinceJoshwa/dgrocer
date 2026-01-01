@@ -549,7 +549,7 @@ export default function ProductShowcase() {
       ],
       // Placeholder image or use a generic festive one
       // image: "https://res.cloudinary.com/dsj3kcbf4/image/upload/v1766506300/Screenshot_2025-12-23_213342_af5xur.png", 
-      image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/11.png?updatedAt=1766849968429", 
+      image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/Delight.png?updatedAt=1767258946402", 
     },
     {
       name: "Elite",
@@ -565,7 +565,7 @@ export default function ProductShowcase() {
         "Fig",
       ],
       // image: "https://res.cloudinary.com/dsj3kcbf4/image/upload/v1766506300/Screenshot_2025-12-23_213342_af5xur.png",
-      image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/11.png?updatedAt=1766849968429",
+      image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/elite.png?updatedAt=1767258946375",
     },
     {
       name: "Supreme",
@@ -582,7 +582,7 @@ export default function ProductShowcase() {
       ],
       // Placeholder image or use a generic festive one
       // image: "https://res.cloudinary.com/dsj3kcbf4/image/upload/v1766506300/Screenshot_2025-12-23_213342_af5xur.png",
-      image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/11.png?updatedAt=1766849968429",
+      image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/supreme.png?updatedAt=1767258936964",
     },
     {
       name: "Luxury",
@@ -600,7 +600,7 @@ export default function ProductShowcase() {
         "Walnut",
       ],
       // image: "https://res.cloudinary.com/dsj3kcbf4/image/upload/v1766506297/Screenshot_2025-12-23_213416_ppgh3o.png",
-      image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/3.png?updatedAt=1766849968395",
+      image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/luxury.png?updatedAt=1767258948073",
     },
   ]
 
