@@ -29,7 +29,7 @@ import BenefitsSection from "@/components/benefits-section"
 import CTASection from "@/components/cta-section"
 import StickyWhatsApp from "@/components/sticky-whatsapp"
 import WhatsappChat from "@/components/WhatsAppChat"
-import BannerSection from "@/components/banner-section"
+import BannerSection from "@/components/banner-video"
 
 export default function Home() {
   return (
@@ -39,7 +39,7 @@ export default function Home() {
         {/* <StickyWhatsApp /> */}
         <section id="home">
           <HeroSection />
-          {/* <BannerSection /> */}
+          <BannerSection />
         </section>
         {/* <BrandHighlights /> */}
         <section id="products">
