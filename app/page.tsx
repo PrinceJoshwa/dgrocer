@@ -535,13 +535,13 @@ const itemVariants: Variants = {
                     </motion.div>
                   </span>
                 </Link>
-                <a
+                {/* <a
                   href="/#contact"
                   className="flex items-center justify-center gap-2 px-6 py-4 text-[#044116] font-semibold bg-emerald-50/50 rounded-full border border-emerald-200 hover:bg-emerald-100/50 transition-all"
                 >
                   <Truck className="w-5 h-5" />
                   Free Delivery Info
-                </a>
+                </a> */}
               </motion.div>
 
               {/* Delivery Info */}
