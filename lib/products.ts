@@ -549,7 +549,8 @@ export const products: Product[] = [
     id: "dp-1",
     category: "Dals & Pulses",
     name: "Toor Dal Premium",
-    image: "/groceries/1.png", // matches PDF SL 1
+    // image: "/groceries/1.png", // matches PDF SL 1
+    image: "https://ik.imagekit.io/j0xzq9pns/groceries/toordal/1kg.png?updatedAt=1768806210136", // matches PDF SL 1
     prices: [
       { weight: "500g", price: "₹85" }, //
       { weight: "1kg", price: "₹170" },
@@ -559,7 +560,8 @@ export const products: Product[] = [
     id: "dp-2",
     category: "Dals & Pulses",
     name: "Standard Toor Dal",
-    image: "/groceries/2.png", // matches PDF SL 2
+    // image: "/groceries/2.png", // matches PDF SL 2
+    image: "https://ik.imagekit.io/j0xzq9pns/groceries/toordal/1kg.png?updatedAt=1768806210136", // matches PDF SL 2
     prices: [
       { weight: "250g", price: "₹38" }, //
       { weight: "500g", price: "₹75" },
@@ -570,7 +572,8 @@ export const products: Product[] = [
     id: "dp-3",
     category: "Dals & Pulses",
     name: "Premium Urad Dal",
-    image: "/groceries/3.png", // matches PDF SL 3
+    // image: "/groceries/3.png", // matches PDF SL 3
+    image: "https://ik.imagekit.io/j0xzq9pns/groceries/urad/500g.png?updatedAt=1768806259239", // matches PDF SL 3
     prices: [
       { weight: "250g", price: "₹40" }, //
       { weight: "500g", price: "₹80" },
@@ -581,7 +584,8 @@ export const products: Product[] = [
     id: "dp-4",
     category: "Dals & Pulses",
     name: "Standard Urad Dal",
-    image: "/groceries/4.png", // matches PDF SL 4
+    // image: "/groceries/4.png", // matches PDF SL 4
+    image: "https://ik.imagekit.io/j0xzq9pns/groceries/urad/500g.png?updatedAt=1768806259239", // matches PDF SL 4
     prices: [
         { weight: "250g", price: "₹34" }, //
         { weight: "500g", price: "₹67" },
@@ -592,7 +596,7 @@ export const products: Product[] = [
     id: "dp-5",
     category: "Dals & Pulses",
     name: "Moong Dal (Pasi Paruppu)",
-    image: "/groceries/5.png", // matches PDF SL 5
+    image: "https://ik.imagekit.io/j0xzq9pns/groceries/Dgrocer%20sticker%20mockup%20for%20website/8.png?updatedAt=1768812663157", // matches PDF SL 5
     prices: [
       { weight: "250g", price: "₹35" }, //
       { weight: "500g", price: "₹67" },
@@ -603,7 +607,8 @@ export const products: Product[] = [
     id: "dp-6",
     category: "Dals & Pulses",
     name: "Premium Green Gram",
-    image: "/groceries/6.png", // matches PDF SL 6
+    image: "https://ik.imagekit.io/j0xzq9pns/groceries/pasi%20parupu(moong%20dal,green%20gram)/500g.png?updatedAt=1768806261397", // matches PDF SL 6
+    // image: "/groceries/6.png", // matches PDF SL 6
     prices: [
         { weight: "250g", price: "₹44" }, //
         { weight: "500g", price: "₹85" },
@@ -614,7 +619,8 @@ export const products: Product[] = [
     id: "dp-7",
     category: "Dals & Pulses",
     name: "Chana Dal (Kadalai Paruppu)",
-    image: "/groceries/7.png", // matches PDF SL 7
+    image: "https://ik.imagekit.io/j0xzq9pns/groceries/kadala%20dal%20(chana)/1kg.png?updatedAt=1768806171971", // matches PDF SL 7
+    // image: "/groceries/7.png", // matches PDF SL 7
     prices: [
       { weight: "250g", price: "₹30" }, //
       { weight: "500g", price: "₹50" },
@@ -625,7 +631,8 @@ export const products: Product[] = [
     id: "dp-8",
     category: "Dals & Pulses",
     name: "Masoor Dal (Masoor Paruppu)",
-    image: "/groceries/8.png", // matches PDF SL 8
+    image: "https://ik.imagekit.io/j0xzq9pns/groceries/masoor%20dal/1kg.png?updatedAt=1768806253558", // matches PDF SL 8
+    // image: "/groceries/8.png", // matches PDF SL 8
     prices: [
       { weight: "500g", price: "₹55" }, //
       { weight: "1kg", price: "₹109" },
@@ -635,7 +642,8 @@ export const products: Product[] = [
     id: "dp-9",
     category: "Dals & Pulses",
     name: "White Chickpeas (White Sundal Big)",
-    image: "/groceries/9.png", // matches PDF SL 9
+    image: "https://ik.imagekit.io/j0xzq9pns/groceries/white%20chick%20peas/1kg.png?updatedAt=1768806169256", // matches PDF SL 9
+    // image: "/groceries/9.png", // matches PDF SL 9
     prices: [
         { weight: "250g", price: "₹60" }, //
         { weight: "500g", price: "₹110" },
@@ -646,7 +654,8 @@ export const products: Product[] = [
     id: "dp-10",
     category: "Dals & Pulses",
     name: "Black Chickpeas (Black Sundal)",
-    image: "/groceries/10.png", // matches PDF SL 10
+    image: "https://ik.imagekit.io/j0xzq9pns/groceries/BLACK%20CHICKPEAS/1kg.png?updatedAt=1768806257788", // matches PDF SL 10
+    // image: "/groceries/10.png", // matches PDF SL 10
     prices: [
         { weight: "250g", price: "₹39" }, //
         { weight: "500g", price: "₹74" },
@@ -658,6 +667,7 @@ export const products: Product[] = [
     category: "Dals & Pulses",
     name: "Horse Gram (Black Kanam)",
     image: "/groceries/11.png", // matches PDF SL 11
+    // image: "/groceries/11.png", // matches PDF SL 11
     prices: [
         { weight: "250g", price: "₹30" }, //
         { weight: "500g", price: "₹60" },
@@ -668,7 +678,8 @@ export const products: Product[] = [
     id: "dp-12",
     category: "Dals & Pulses",
     name: "Rajma Beans",
-    image: "/groceries/12.png", // matches PDF SL 12
+    image: "https://ik.imagekit.io/j0xzq9pns/groceries/RAJMA/1KG.png?updatedAt=1768806238789", // matches PDF SL 12
+    // image: "/groceries/12.png", // matches PDF SL 12
     prices: [
         { weight: "250g", price: "₹39" }, //
         { weight: "500g", price: "₹78" },
@@ -678,7 +689,8 @@ export const products: Product[] = [
     id: "dp-13",
     category: "Dals & Pulses",
     name: "White Rajma",
-    image: "/groceries/13.png", // matches PDF SL 13
+    image: "https://ik.imagekit.io/j0xzq9pns/groceries/white%20chick%20peas/500g.png?updatedAt=1768806169616", // matches PDF SL 13
+    // image: "/groceries/13.png", // matches PDF SL 13
     prices: [
         { weight: "250g", price: "₹45" }, //
     ]
@@ -700,7 +712,7 @@ export const products: Product[] = [
     id: "sp-1",
     category: "Spices",
     name: "Cumin Seeds (Seeragam)",
-    image: "/groceries/15.png", // matches PDF SL 15
+    image: "https://ik.imagekit.io/j0xzq9pns/groceries/Dgrocer%20sticker%20mockup%20for%20website/12.png", // matches PDF SL 15
     prices: [
       { weight: "50g", price: "₹25" }, //
       { weight: "100g", price: "₹45" },
@@ -711,7 +723,8 @@ export const products: Product[] = [
     id: "sp-2",
     category: "Spices",
     name: "Black Pepper (Milagu)",
-    image: "/groceries/16.png", // matches PDF SL 16
+    image: "https://ik.imagekit.io/j0xzq9pns/groceries/SPICES/BLACK%20PEPPER/100G.png?updatedAt=1768806272377", // matches PDF SL 16
+    // image: "/groceries/16.png", // matches PDF SL 16
     prices: [
       { weight: "50g", price: "₹50" }, //
       { weight: "100g", price: "₹99" },
@@ -721,7 +734,8 @@ export const products: Product[] = [
     id: "sp-3",
     category: "Spices",
     name: "Fennel Seeds (Sombu)",
-    image: "/groceries/13.png", // matches PDF SL 13
+    image: "https://ik.imagekit.io/j0xzq9pns/groceries/SPICES/FENNEL%20SEEDS/100%20(2).png?updatedAt=1768806280668", // matches PDF SL 13
+    // image: "/groceries/13.png", // matches PDF SL 13
 
     // Image 1-16 used. No image provided for 17+. Using placeholder/none.
     prices: [
@@ -733,7 +747,8 @@ export const products: Product[] = [
     id: "sp-4",
     category: "Spices",
     name: "Mustard Seeds (Kadugu)",
-    image: "/groceries/13.png", // matches PDF SL 13
+    image: "https://ik.imagekit.io/j0xzq9pns/groceries/SPICES/MUSTARD/100G.png?updatedAt=1768806268508", // matches PDF SL 16
+    // image: "/groceries/13.png", // matches PDF SL 13
 
     prices: [
       { weight: "100g", price: "₹13" }, //
@@ -743,7 +758,8 @@ export const products: Product[] = [
     id: "sp-5",
     category: "Spices",
     name: "Dry Chillies (Vathal)",
-    image: "/groceries/13.png", // matches PDF SL 13
+    image: "https://ik.imagekit.io/j0xzq9pns/groceries/Dgrocer%20sticker%20mockup%20for%20website/dry%20chilli.png", // matches PDF SL 13
+    // image: "/groceries/13.png", // matches PDF SL 13
 
     prices: [
       { weight: "100g", price: "₹25" }, //
@@ -754,7 +770,8 @@ export const products: Product[] = [
     id: "sp-6",
     category: "Spices",
     name: "Round Chillies (Gundu Vathal)",
-    image: "/groceries/13.png", // matches PDF SL 13
+    image: "https://ik.imagekit.io/j0xzq9pns/groceries/ROUND%20RE%20CHILLI/ROUND%20RED%20CHILLI%20250G.jpeg?updatedAt=1768806173058", // matches PDF SL 13
+    // image: "/groceries/13.png", // matches PDF SL 13
 
     prices: [
       { weight: "100g", price: "₹41" }, //
@@ -765,7 +782,8 @@ export const products: Product[] = [
     id: "sp-7",
     category: "Spices",
     name: "Cardamon",
-    image: "/groceries/13.png", // matches PDF SL 13
+    image: "https://ik.imagekit.io/j0xzq9pns/groceries/Dgrocer%20sticker%20mockup%20for%20website/3.png?updatedAt=1768812656703", // matches PDF SL 13
+    // image: "/groceries/13.png", // matches PDF SL 13
     prices: [
       { weight: "10g", price: "₹37" }, //
     ],
@@ -774,7 +792,7 @@ export const products: Product[] = [
     id: "sp-8",
     category: "Spices",
     name: "Poppy Seeds (Kasakasa)",
-    image: "/groceries/13.png", // matches PDF SL 13
+    image: "https://ik.imagekit.io/j0xzq9pns/groceries/SPICES/POPPY/100.png?updatedAt=1768806277178", // matches PDF SL 13
     prices: [
       { weight: "25g", price: "₹50" }, //
       { weight: "50g", price: "₹76" },
@@ -785,7 +803,7 @@ export const products: Product[] = [
     id: "sp-9",
     category: "Spices",
     name: "Mace (Jathi Pathiri)",
-    image: "/groceries/13.png", // matches PDF SL 13
+    image: "https://ik.imagekit.io/j0xzq9pns/groceries/SPICES/MACE/100.png?updatedAt=1768806276446", // matches PDF SL 13
     prices: [
       { weight: "25g", price: "₹60" }, //
       { weight: "50g", price: "₹120" },
@@ -796,7 +814,7 @@ export const products: Product[] = [
     id: "sp-10",
     category: "Spices",
     name: "Nutmeg (Jathikai)",
-    image: "/groceries/13.png", // matches PDF SL 13
+    image: "https://ik.imagekit.io/j0xzq9pns/groceries/SPICES/NUT%20MEG/50G.png?updatedAt=1768806234885", // matches PDF SL 13
     prices: [
       { weight: "25g", price: "₹24" }, //
       { weight: "50g", price: "₹48" },
@@ -806,7 +824,7 @@ export const products: Product[] = [
     id: "sp-11",
     category: "Spices",
     name: "Dry Ginger (Sukku)",
-    image: "/groceries/13.png", // matches PDF SL 13
+    image: "", // matches PDF SL 13
     prices: [
       { weight: "25g", price: "₹14" }, //
       { weight: "50g", price: "₹28" },
@@ -817,7 +835,7 @@ export const products: Product[] = [
     id: "sp-12",
     category: "Spices",
     name: "Stone Flower (Kalpasi)",
-    image: "/groceries/13.png", // matches PDF SL 13
+    image: "", // matches PDF SL 13
     
     prices: [
       { weight: "25g", price: "₹31" }, //
@@ -827,7 +845,8 @@ export const products: Product[] = [
     id: "sp-13",
     category: "Spices",
     name: "Star Anise (Annachi Poo)",
-    image: "/groceries/13.png", // matches PDF SL 13
+    image: "https://ik.imagekit.io/j0xzq9pns/groceries/Dgrocer%20sticker%20mockup%20for%20website/4.png?updatedAt=1768812662972", // matches PDF SL 13
+    // image: "/groceries/13.png", // matches PDF SL 13
     
     prices: [
       { weight: "25g", price: "₹25" }, //
@@ -837,7 +856,8 @@ export const products: Product[] = [
     id: "sp-14",
     category: "Spices",
     name: "Biryani Leaf",
-    image: "/groceries/13.png", // matches PDF SL 13
+    image: "https://ik.imagekit.io/j0xzq9pns/groceries/Dgrocer%20sticker%20mockup%20for%20website/16.png?updatedAt=1768812656549", // matches PDF SL 13
+    // image: "/groceries/13.png", // matches PDF SL 13
     
     prices: [
       { weight: "25g", price: "₹35" }, //
@@ -847,7 +867,8 @@ export const products: Product[] = [
     id: "sp-15",
     category: "Spices",
     name: "Cloves (Kirampu)",
-    image: "/groceries/13.png", // matches PDF SL 13
+    image: "https://ik.imagekit.io/j0xzq9pns/groceries/Dgrocer%20sticker%20mockup%20for%20website/15.png?updatedAt=1768812661717", // matches PDF SL 13
+    // image: "/groceries/13.png", // matches PDF SL 13
     
     prices: [
       { weight: "25g", price: "₹35" }, //
@@ -857,7 +878,7 @@ export const products: Product[] = [
     id: "sp-16",
     category: "Spices",
     name: "Marathi Moggu",
-    image: "/groceries/13.png", // matches PDF SL 13
+    image: "https://ik.imagekit.io/j0xzq9pns/groceries/SPICES/MARATHI%20MOGGU/100g.png?updatedAt=1768806241412", // matches PDF SL 13
     
     prices: [
       { weight: "100g", price: "₹18" }, //
@@ -871,7 +892,7 @@ export const products: Product[] = [
     id: "sw-1",
     category: "Sweeteners",
     name: "Sugar",
-    image: "/groceries/13.png", // matches PDF SL 13
+    image: "https://ik.imagekit.io/j0xzq9pns/groceries/WHITE%20SUGAR/1KG.png?updatedAt=1768806213788", // matches PDF SL 13
     
     prices: [
       { weight: "250g", price: "₹14" }, //
@@ -895,7 +916,7 @@ export const products: Product[] = [
     id: "sw-3",
     category: "Sweeteners",
     name: "Brown Sugar (Nattu Sarkkarai)",
-    image: "/groceries/13.png", // matches PDF SL 13
+    image: "https://ik.imagekit.io/j0xzq9pns/groceries/BROWN%20SUGAR/1KG.png?updatedAt=1768806222909", // matches PDF SL 13
     
     prices: [
       { weight: "500g", price: "₹45" }, //
