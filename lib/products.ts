@@ -699,7 +699,7 @@ export const products: Product[] = [
     id: "dp-14",
     category: "Dals & Pulses",
     name: "Wheat (Kothumai)",
-    image: "/groceries/14.png", // matches PDF SL 14
+    image: "", // matches PDF SL 14
     prices: [
         { weight: "500g", price: "₹29" }, //
     ]
