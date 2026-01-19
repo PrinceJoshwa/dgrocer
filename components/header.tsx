@@ -232,7 +232,7 @@ export default function Header() {
   // UPDATED NAV ITEMS
   const navItems = [
     { label: "Home", href: "/" },
-    { label: "All Categories", href: "/categories" },
+    // { label: "All Categories", href: "/categories" },
     { label: "Dals & Pulses", href: "/dhal" },
     { label: "Spices", href: "/spices" },
     { label: "Sweeteners", href: "/groceries" },

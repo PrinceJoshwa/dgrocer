@@ -10,6 +10,7 @@ export const metadata: Metadata = {
 
 export default function DhalPage() {
   const dhalProducts = products.filter((p) => p.category === "Dals & Pulses")
+  
 
   return <CategoryPage category="Dals & Pulses" products={dhalProducts} />
 }
