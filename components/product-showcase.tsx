@@ -705,11 +705,11 @@ export default function ProductShowcase() {
 
   // --- FILTER LOGIC ---
   // 1. Try to find products marked as "popular"
-  let displayProducts = allProducts.filter(p => p.category === "Gift Box" && p.popular).slice(0, 4)
+  let displayProducts = allProducts.filter(p => p.category === "Gift Boxes" && p.popular).slice(0, 4)
   
   // 2. Fallback: If no popular items, just show the first 4 Gift Boxes
   if (displayProducts.length === 0) {
-    displayProducts = allProducts.filter(p => p.category === "Gift Box").slice(0, 4)
+    displayProducts = allProducts.filter(p => p.category === "Gift Boxes").slice(0, 4)
   }
 
   /* =======================

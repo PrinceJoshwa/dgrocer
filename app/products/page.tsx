@@ -595,7 +595,7 @@ export default function ProductsPage() {
    SMART PRODUCT CARD 
 ==================== */
 function ProductCard({ product }: { product: Product }) {
-  const isGiftBox = product.category === "Gift Box"
+  const isGiftBox = product.category === "Gift Boxes"
 
   // Helper to generate WhatsApp Link
   const getLink = (variant?: string, price?: string) => {

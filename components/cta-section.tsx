@@ -545,7 +545,11 @@ import { useInView } from "react-intersection-observer"
 import { MessageCircle, Mail, Phone, ArrowRight, Sparkles as SparklesIcon } from "lucide-react"
 import { useState, useRef, MouseEvent } from "react"
 
-export default function CTASection() {
+interface CTASectionProps {
+  showFestiveLine?: boolean
+}
+
+export default function CTASection({ showFestiveLine = false }: CTASectionProps) {
   const { ref, inView } = useInView({ triggerOnce: true, threshold: 0.1 })
 
   const containerVariants = {
@@ -815,14 +819,14 @@ export default function CTASection() {
           </motion.div>
 
           {/* Footer Text */}
-          <motion.div
+          {/* <motion.div
             variants={itemVariants}
             className="text-center pt-8 border-t border-slate-100"
           >
             <p className="text-slate-500 text-base md:text-lg font-semibold">
               Perfect for <span className="text-[#044116] font-black">Family</span> | <span className="text-[#044116] font-black">Friends</span> | <span className="text-[#044116] font-black">Corporates</span> | <span className="text-[#044116] font-black">Festive Bulk Orders</span>
             </p>
-          </motion.div>
+          </motion.div> */}
         </div>
       </motion.div>
     </section>

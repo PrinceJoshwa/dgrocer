@@ -6,7 +6,7 @@ import { products } from "@/lib/products" // Adjust path if needed
 import { Gift, Phone, CheckCircle, Star } from "lucide-react"
 
 export default function GiftHampersPage() {
-  const hampers = products.filter((p) => p.category === "Gift Box")
+  const hampers = products.filter((p) => p.category === "Gift Boxes")
 
   return (
     <div className="min-h-screen bg-slate-50">

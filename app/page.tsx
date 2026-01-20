@@ -782,7 +782,7 @@ const categoryData = [
 export default function HomePage() {
   // Filter 3 popular hampers for the preview section
   const featuredHampers = products
-    .filter((p) => p.category === "Gift Box")
+    .filter((p) => p.category === "Gift Boxes")
     .slice(0, 3)
 
   const containerVariants = {

@@ -9,7 +9,8 @@ export const metadata: Metadata = {
 }
 
 export default function GiftBoxesPage() {
-  const giftBoxProducts = products.filter((p) => p.category === "Gift Box")
+  const giftBoxProducts = products.filter((p) => p.category === "Gift Boxes")
 
-  return <CategoryPage category="Gift Box" products={giftBoxProducts} />
+  return <CategoryPage category="Gift Boxes" products={giftBoxProducts} />
+  
 }
