@@ -616,7 +616,7 @@ const categoryImages: Record<string, string> = {
   "Dals & Pulses": "https://ik.imagekit.io/j0xzq9pns/groceries/Modern%20Brown%20Indian%20Spices%20and%20Food%20Vlog%20YouTube%20Thumbnail/2.png",
   "Spices": "https://ik.imagekit.io/j0xzq9pns/groceries/Modern%20Brown%20Indian%20Spices%20and%20Food%20Vlog%20YouTube%20Thumbnail/1.png", 
   "Sweeteners": "https://ik.imagekit.io/j0xzq9pns/groceries/Modern%20Brown%20Indian%20Spices%20and%20Food%20Vlog%20YouTube%20Thumbnail/3.png",
-  "Gift Boxes": "https://ik.imagekit.io/j0xzq9pns/groceries/Modern%20Brown%20Indian%20Spices%20and%20Food%20Vlog%20YouTube%20Thumbnail/4.png",
+  "Gift Boxes": "https://ik.imagekit.io/j0xzq9pns/groceries/gift-hamper.png",
   "default": "https://ik.imagekit.io/j0xzq9pns/groceries/Modern%20Brown%20Indian%20Spices%20and%20Food%20Vlog%20YouTube%20Thumbnail/3.png"
 }
 //   "Dals & Pulses": "https://images.unsplash.com/photo-1586201375761-83865001e31c?q=80&w=2070&auto=format&fit=crop",
