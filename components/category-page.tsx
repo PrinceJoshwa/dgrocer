@@ -772,7 +772,7 @@ export default function CategoryPage({ category, products }: CategoryPageProps) 
                         <motion.img
                           src={product.image}
                           alt={product.name}
-                          className="w-full h-full object-cover rounded-2xl"
+                          className="w-full h-full object-contain rounded-2xl"
                           whileHover={{ scale: 1.1 }}
                           transition={{ duration: 0.6, ease: "easeOut" }}
                         />

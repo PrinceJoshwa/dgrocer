@@ -1403,7 +1403,8 @@ export const products: Product[] = [
     weight: "300g",
     price: "₹199",
     items: ["Almond", "Cashew", "Black Raisins", "Fig"],
-    image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/9.png?updatedAt=1766849966367",
+    // image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/9.png?updatedAt=1766849966367",
+    image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/Dry%20Fruits/1.jpeg",
     popular: true,
   },
   {
@@ -1414,7 +1415,8 @@ export const products: Product[] = [
     price: "₹299",
     badge: "Popular",
     items: ["Almond", "Cashew", "Black Raisins", "Fig"],
-    image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/7.png?updatedAt=1766849965838",
+    // image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/7.png?updatedAt=1766849965838",
+    image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/Dry%20Fruits/2.jpeg",
     popular: true,
   },
   {
@@ -1424,7 +1426,8 @@ export const products: Product[] = [
     weight: "400g",
     price: "₹399",
     items: ["Almond", "Cashew", "Raisins", "Pista"],
-    image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/2.png?updatedAt=1766849968531",
+    // image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/2.png?updatedAt=1766849968531",
+    image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/Dry%20Fruits/3.jpeg",
   },
   {
     id: "gb-4",
@@ -1433,7 +1436,8 @@ export const products: Product[] = [
     weight: "560g",
     price: "₹499",
     items: ["Almond", "Cashew", "Black Raisins", "Fig", "Pista", "Pumpkin Seed"],
-    image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/6.png?updatedAt=1766849968568",
+    // image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/6.png?updatedAt=1766849968568",
+    image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/Dry%20Fruits/4.jpeg",
     popular: true,
   },
   {
@@ -1443,7 +1447,8 @@ export const products: Product[] = [
     weight: "750g",
     price: "₹599",
     items: ["Almond", "Cashew", "Black Raisins", "Fig", "Pista", "Pumpkin Seed", "Raisins"],
-    image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/5.png?updatedAt=1766849966756",
+    // image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/5.png?updatedAt=1766849966756",
+    image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/Dry%20Fruits/5.jpeg",
   },
   {
     id: "gb-6",
@@ -1452,7 +1457,8 @@ export const products: Product[] = [
     weight: "600g",
     price: "₹699",
     items: ["Almond", "Cashew", "Raisins", "Walnut", "Pista", "Pumpkin Seed"],
-    image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/1.png?updatedAt=1766849968324",
+    // image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/1.png?updatedAt=1766849968324",
+    image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/Dry%20Fruits/6.jpeg",
   },
   {
     id: "gb-7",
@@ -1461,7 +1467,8 @@ export const products: Product[] = [
     weight: "700g",
     price: "₹699",
     items: ["Almond", "Cashew", "Raisins", "Pista"],
-    image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/8.png?updatedAt=1766849965157",
+    // image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/8.png?updatedAt=1766849965157",
+    image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/Dry%20Fruits/7.jpeg",
     popular: true,
   },
   {
@@ -1472,7 +1479,8 @@ export const products: Product[] = [
     price: "₹799",
     badge: "New",
     items: ["Edenberg Wine (375ml)", "Biscoff", "Kinder Creamy", "Dairy Milk", "Munch", "Gems"],
-    image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/Delight.png?updatedAt=1767258946402",
+    // image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/Delight.png?updatedAt=1767258946402",
+    image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/Dry%20Fruits/8.jpeg",
     popular: true,
   },
   {
@@ -1482,7 +1490,8 @@ export const products: Product[] = [
     weight: "1000g",
     price: "₹999",
     items: ["Almond", "Cashew", "Black Raisins", "Pumpkin Seed", "Raisins", "Pista", "Fig"],
-    image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/elite.png?updatedAt=1767258946375",
+    // image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/elite.png?updatedAt=1767258946375",
+    image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/Dry%20Fruits/9.jpeg",
   },
   {
     id: "gb-10",
@@ -1492,7 +1501,8 @@ export const products: Product[] = [
     price: "₹1099",
     badge: "New",
     items: ["Edenberg Wine (375ml)", "Biscoff", "Dairy Milk", "Nestle", "Kitkat", "Imported Chocolates"],
-    image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/supreme.png?updatedAt=1767258936964",
+    // image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/supreme.png?updatedAt=1767258936964",
+    image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/Dry%20Fruits/10.jpeg",
   },
   {
     id: "gb-11",
@@ -1502,7 +1512,8 @@ export const products: Product[] = [
     price: "₹1499",
     badge: "Premium",
     items: ["Almond", "Cashew", "Black Raisins", "Fig", "Pista", "Pumpkin Seed", "Raisins", "Walnut"],
-    image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/luxury.png?updatedAt=1767258948073",
+    // image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/luxury.png?updatedAt=1767258948073",
+    image: "https://ik.imagekit.io/j0xzq9pns/GIFT%20HAMPERS/Dry%20Fruits/11.jpeg",
   },
 
   // ==========================================
