@@ -1523,7 +1523,8 @@ export const products: Product[] = [
     id: "dp-1",
     category: "Dals & Pulses",
     name: "Premium Toor Dal",
-    image: "https://ik.imagekit.io/j0xzq9pns/groceries/toordal/1kg.png?updatedAt=1768806210136",
+    // image: "https://ik.imagekit.io/j0xzq9pns/groceries/toordal/1kg.png?updatedAt=1768806210136",
+    image: "https://ik.imagekit.io/j0xzq9pns/groceries/Dry%20Fruits%20&%20Pulses/5.jpeg",
     prices: [
       { weight: "500g", price: "₹85" },
       { weight: "1kg", price: "₹170" },
@@ -1533,7 +1534,8 @@ export const products: Product[] = [
     id: "dp-2",
     category: "Dals & Pulses",
     name: "Standard Toor Dal",
-    image: "https://ik.imagekit.io/j0xzq9pns/groceries/toordal/1kg.png?updatedAt=1768806210136",
+    // image: "https://ik.imagekit.io/j0xzq9pns/groceries/toordal/1kg.png?updatedAt=1768806210136",
+    image: "https://ik.imagekit.io/j0xzq9pns/groceries/Dry%20Fruits%20&%20Pulses/5.jpeg",
     prices: [
       { weight: "250g", price: "₹38" },
       { weight: "500g", price: "₹75" },
@@ -1544,7 +1546,8 @@ export const products: Product[] = [
     id: "dp-3",
     category: "Dals & Pulses",
     name: "Premium Urad Dal",
-    image: "https://ik.imagekit.io/j0xzq9pns/groceries/urad/500g.png?updatedAt=1768806259239",
+    // image: "https://ik.imagekit.io/j0xzq9pns/groceries/urad/500g.png?updatedAt=1768806259239",
+    image: "https://ik.imagekit.io/j0xzq9pns/groceries/Dry%20Fruits%20&%20Pulses/4.jpeg",
     prices: [
       { weight: "250g", price: "₹40" },
       { weight: "500g", price: "₹80" },
@@ -1555,7 +1558,8 @@ export const products: Product[] = [
     id: "dp-4",
     category: "Dals & Pulses",
     name: "Standard Urad Dal",
-    image: "https://ik.imagekit.io/j0xzq9pns/groceries/urad/500g.png?updatedAt=1768806259239",
+    // image: "https://ik.imagekit.io/j0xzq9pns/groceries/urad/500g.png?updatedAt=1768806259239",
+    image: "https://ik.imagekit.io/j0xzq9pns/groceries/Dry%20Fruits%20&%20Pulses/4.jpeg",
     prices: [
       { weight: "250g", price: "₹34" },
       { weight: "500g", price: "₹67" },
@@ -1566,7 +1570,8 @@ export const products: Product[] = [
     id: "dp-5",
     category: "Dals & Pulses",
     name: "Premium Moong Dal",
-    image: "https://ik.imagekit.io/j0xzq9pns/groceries/Dgrocer%20sticker%20mockup%20for%20website/8.png?updatedAt=1768812663157",
+    // image: "https://ik.imagekit.io/j0xzq9pns/groceries/Dgrocer%20sticker%20mockup%20for%20website/8.png?updatedAt=1768812663157",
+    image: "https://ik.imagekit.io/j0xzq9pns/groceries/Dry%20Fruits%20&%20Pulses/1.jpeg",
     prices: [
       { weight: "250g", price: "₹35" },
       { weight: "500g", price: "₹67" },
@@ -1577,7 +1582,8 @@ export const products: Product[] = [
     id: "dp-6",
     category: "Dals & Pulses",
     name: "Premium Green Gram",
-    image: "https://ik.imagekit.io/j0xzq9pns/groceries/pasi%20parupu(moong%20dal,green%20gram)/500g.png?updatedAt=1768806261397",
+    // image: "https://ik.imagekit.io/j0xzq9pns/groceries/pasi%20parupu(moong%20dal,green%20gram)/500g.png?updatedAt=1768806261397",
+    image: "https://ik.imagekit.io/j0xzq9pns/groceries/Dry%20Fruits%20&%20Pulses/6.jpeg",
     prices: [
       { weight: "250g", price: "₹44" },
       { weight: "500g", price: "₹85" },
@@ -1588,7 +1594,8 @@ export const products: Product[] = [
     id: "dp-7",
     category: "Dals & Pulses",
     name: "Premium Chana Dal",
-    image: "https://ik.imagekit.io/j0xzq9pns/groceries/kadala%20dal%20(chana)/1kg.png?updatedAt=1768806171971",
+    // image: "https://ik.imagekit.io/j0xzq9pns/groceries/kadala%20dal%20(chana)/1kg.png?updatedAt=1768806171971",
+    image: "https://ik.imagekit.io/j0xzq9pns/groceries/Dry%20Fruits%20&%20Pulses/7.jpeg",
     prices: [
       { weight: "250g", price: "₹30" },
       { weight: "500g", price: "₹50" },
@@ -1599,7 +1606,8 @@ export const products: Product[] = [
     id: "dp-8",
     category: "Dals & Pulses",
     name: "Premium Masoor Dal",
-    image: "https://ik.imagekit.io/j0xzq9pns/groceries/masoor%20dal/1kg.png?updatedAt=1768806253558",
+    // image: "https://ik.imagekit.io/j0xzq9pns/groceries/masoor%20dal/1kg.png?updatedAt=1768806253558",
+    image: "https://ik.imagekit.io/j0xzq9pns/groceries/Dry%20Fruits%20&%20Pulses/8.jpeg",
     prices: [
       { weight: "500g", price: "₹55" },
       { weight: "1kg", price: "₹109" },
@@ -1609,7 +1617,8 @@ export const products: Product[] = [
     id: "dp-9",
     category: "Dals & Pulses",
     name: "Premium White Chickpeas",
-    image: "https://ik.imagekit.io/j0xzq9pns/groceries/white%20chick%20peas/1kg.png?updatedAt=1768806169256",
+    // image: "https://ik.imagekit.io/j0xzq9pns/groceries/white%20chick%20peas/1kg.png?updatedAt=1768806169256",
+    image: "https://ik.imagekit.io/j0xzq9pns/groceries/Dry%20Fruits%20&%20Pulses/9.jpeg",
     prices: [
       { weight: "250g", price: "₹60" },
       { weight: "500g", price: "₹110" },
@@ -1620,7 +1629,8 @@ export const products: Product[] = [
     id: "dp-10",
     category: "Dals & Pulses",
     name: "Premium Black Chickpeas",
-    image: "https://ik.imagekit.io/j0xzq9pns/groceries/BLACK%20CHICKPEAS/1kg.png?updatedAt=1768806257788",
+    // image: "https://ik.imagekit.io/j0xzq9pns/groceries/BLACK%20CHICKPEAS/1kg.png?updatedAt=1768806257788",
+    image: "https://ik.imagekit.io/j0xzq9pns/groceries/Dry%20Fruits%20&%20Pulses/10.jpeg",
     prices: [
       { weight: "250g", price: "₹39" },
       { weight: "500g", price: "₹74" },
@@ -1631,7 +1641,7 @@ export const products: Product[] = [
     id: "dp-11",
     category: "Dals & Pulses",
     name: "Premium Horse Gram",
-    image: "https://ik.imagekit.io/j0xzq9pns/groceries/11.png?updatedAt=1768806257788",
+    image: "https://ik.imagekit.io/j0xzq9pns/groceries/Dry%20Fruits%20&%20Pulses/11.jpeg",
     prices: [
       { weight: "250g", price: "₹30" },
       { weight: "500g", price: "₹60" },
@@ -1642,7 +1652,8 @@ export const products: Product[] = [
     id: "dp-12",
     category: "Dals & Pulses",
     name: "Premium Rajma Beans",
-    image: "https://ik.imagekit.io/j0xzq9pns/groceries/RAJMA/1KG.png?updatedAt=1768806238789",
+    // image: "https://ik.imagekit.io/j0xzq9pns/groceries/RAJMA/1KG.png?updatedAt=1768806238789",
+    image: "https://ik.imagekit.io/j0xzq9pns/groceries/Dry%20Fruits%20&%20Pulses/12.jpeg",
     prices: [
       { weight: "250g", price: "₹39" },
       { weight: "500g", price: "₹78" },
@@ -1652,7 +1663,8 @@ export const products: Product[] = [
     id: "dp-13",
     category: "Dals & Pulses",
     name: "Premium Whole Moong",
-    image: "https://ik.imagekit.io/j0xzq9pns/groceries/13.png?updatedAt=1768806257788",
+    // image: "https://ik.imagekit.io/j0xzq9pns/groceries/13.png?updatedAt=1768806257788",
+    image: "https://ik.imagekit.io/j0xzq9pns/groceries/Dry%20Fruits%20&%20Pulses/6.jpeg",
     prices: [
       { weight: "250g", price: "₹35" },
       { weight: "500g", price: "₹70" },
@@ -1663,7 +1675,7 @@ export const products: Product[] = [
     id: "dp-14",
     category: "Dals & Pulses",
     name: "Premium Black Beans",
-    image: "https://ik.imagekit.io/j0xzq9pns/groceries/14.png?updatedAt=1768806257788",
+    image: "https://ik.imagekit.io/j0xzq9pns/groceries/Dry%20Fruits%20&%20Pulses/14.jpeg",
     prices: [
       { weight: "250g", price: "₹34" },
       { weight: "500g", price: "₹68" },
