@@ -790,7 +790,7 @@ export default function HomePage() {
           HERO SECTION
          ============================== */}
       {/* Changed min-h-[90vh] to min-h-auto for mobile to prevent huge gaps */}
-      <section className="relative min-h-[auto] lg:min-h-[90vh] flex items-center justify-center bg-gradient-to-br from-[#FDFBF7] via-white to-emerald-50/30 overflow-hidden pt-16 pb-16 lg:pt-0 lg:pb-0">
+<section className="relative min-h-[auto] lg:min-h-[90vh] flex items-center justify-center bg-gradient-to-br from-[#FDFBF7] via-white to-emerald-50/30 overflow-hidden pt-16 pb-16 lg:pt-0 lg:pb-0">
         <motion.div className="container mx-auto px-4 md:px-6 lg:px-8 z-10 relative">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-20 items-center">
             <div className="space-y-6 md:space-y-8 text-center lg:text-left">
@@ -799,7 +799,8 @@ export default function HomePage() {
                 animate={{ opacity: 1, y: 0 }}
                 className="inline-flex items-center gap-2 px-4 py-2 md:px-5 md:py-2.5 rounded-full bg-emerald-100 text-emerald-800 text-[10px] md:text-xs font-bold tracking-widest uppercase"
               >
-                <Leaf className="w-3 md:w-3.5 h-3 md:h-3.5" /> Fresh & Premium
+                {/* UPDATED: Badge text */}
+                <Leaf className="w-3 md:w-3.5 h-3 md:h-3.5" /> Eat Right, Stay Healthy
               </motion.div>
               <motion.h1
                 initial={{ opacity: 0, y: 20 }}
@@ -808,26 +809,30 @@ export default function HomePage() {
                 // Reduced text size on mobile (text-4xl) to prevent overflow
                 className="text-4xl sm:text-5xl md:text-7xl font-black text-[#044116] tracking-tighter leading-[1.1] md:leading-none"
               >
-                Everyday Essentials <br />
+                {/* UPDATED: Headline to match Image */}
+                Premium Gift Boxes & <br />
                 <span className="text-transparent bg-clip-text bg-gradient-to-r from-emerald-600 to-green-400">
-                  Delivered Fresh.
+                  Healthy Dry Fruits
                 </span>
               </motion.h1>
               <p className="text-base md:text-xl text-slate-600 max-w-lg mx-auto lg:mx-0 leading-relaxed">
-                Premium dals, authentic spices, and exclusive dry fruit hampers. Quality you can trust, delivered to your door.
+                {/* UPDATED: Description with Price Point */}
+                Celebrate every moment with our exclusive hampers starting at just <span className="font-bold text-[#044116]">₹199</span>. Perfect for gifting, festivals, and healthy snacking.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start pt-2">
-                <Link
-                  href="/dhal"
-                  className="px-8 py-4 bg-[#044116] text-white font-bold rounded-full hover:bg-emerald-900 transition-all shadow-lg shadow-emerald-900/20 text-center"
-                >
-                  Shop Groceries
-                </Link>
+                {/* UPDATED: Primary Button for Gift Boxes */}
                 <Link
                   href="/gift-boxes"
-                  className="px-8 py-4 bg-amber-500 text-white font-bold rounded-full hover:bg-amber-600 transition-all shadow-lg shadow-amber-500/20 flex items-center justify-center gap-2"
+                  className="px-8 py-4 bg-[#044116] text-white font-bold rounded-full hover:bg-emerald-900 transition-all shadow-lg shadow-emerald-900/20 flex items-center justify-center gap-2"
                 >
-                  <Gift className="w-5 h-5" /> View Hampers
+                  <Gift className="w-5 h-5" /> Shop Gift Boxes
+                </Link>
+                {/* UPDATED: Secondary Button for Groceries */}
+                <Link
+                  href="#categories"
+                  className="px-8 py-4 bg-amber-500 text-white font-bold rounded-full hover:bg-amber-600 transition-all shadow-lg shadow-amber-500/20 text-center"
+                >
+                   Explore Groceries
                 </Link>
               </div>
             </div>
@@ -940,7 +945,7 @@ export default function HomePage() {
       {/* ==============================
           CATEGORIES SECTION
          ============================== */}
-      <section className="py-16 md:py-20 bg-white">
+      <section id="categories" className="py-16 md:py-20 bg-white">
         <div className="container mx-auto px-4">
           <div className="text-center max-w-3xl mx-auto mb-10 md:mb-16">
             <span className="text-emerald-600 font-bold tracking-widest uppercase text-xs md:text-sm mb-2 block">Our Range</span>
