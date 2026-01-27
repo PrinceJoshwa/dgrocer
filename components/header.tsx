@@ -125,7 +125,7 @@ export default function Header() {
     { label: "Spices", href: "/spices" },
     { label: "Sweeteners", href: "/groceries" },
     { label: "Dry Fruit Hampers", href: "/gift-boxes" },
-    { label: "Contact", href: "/#contact" },
+    // { label: "Contact", href: "/#contact" },
   ]
 
   return (
